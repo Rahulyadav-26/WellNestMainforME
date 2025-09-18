@@ -439,3 +439,5 @@ export default Chatbot;
 
 //add text in chatbot 
 //again add text in chatbot
+//i checked how it's work
+// now i knoweverything baby
